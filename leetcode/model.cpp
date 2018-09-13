@@ -4,6 +4,7 @@
 using namespace std;
 
 // https://leetcode-cn.com/problems/two-sum/description/
+// g++ addTwoNumbers.cpp --std=c++11 -W && ./a.out
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
